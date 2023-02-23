@@ -1,0 +1,7 @@
+1. Created a folder in ourlaptop
+2. converted the folder to git repository
+// git init
+3. add the files to the folder
+4. Moved to  local reposiory
+// git add "file name"
+// git commit -m "commit message"
